@@ -1,6 +1,6 @@
 ### Olá!!!! Seja bem-vindo. Eu sou Nelson Souza Junior =)
 
-- 🔭 Atualmente eu trabalho com Análise de dados, criação de modelos e implementação(olap e oltp), scripts em python, algoritmos de Machine Learning e dashboards Qlik Sense;
+- 🔭 Sou um Analista de Sistema apaixonado por análise de dados, criação de modelos e implementação(olap e oltp), desenvolvimento em python, algoritmos de Machine Learning e dashboards Qlik Sense;
 - 🌱 Ciência de dados, Storytelling e Qlik Sense;
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
